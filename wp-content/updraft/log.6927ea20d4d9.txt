@@ -1,0 +1,4 @@
+0000.000 (1) Opened log file at time: Wed, 17 Jun 2020 19:31:14 +0000 on http://www.packmas13.de
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.14-1~deb10u1 (fpm-fcgi, Linux dpsg1300 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64) MySQL: 10.3.22-MariaDB-0+deb10u1 WPLANG: de_DE Server: nginx/1.14.2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.7M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (1) Free space on disk containing Updraft's temporary directory: 13283 MB
+0000.009 (1) This backup task (6927ea20d4d9) is either complete or began over 2 days ago: ending (1592422274.7288, ) (existing jobdata keys: )

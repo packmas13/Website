@@ -1,0 +1,109 @@
+0000.007 () Opened log file at time: Wed, 17 Jun 2020 18:27:54 +0000 on http://www.packmas13.de
+0000.008 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.14-1~deb10u1 (fpm-fcgi, Linux dpsg1300 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64) MySQL: 10.3.22-MariaDB-0+deb10u1 WPLANG: de_DE Server: nginx/1.14.2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.1M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 () Free space on disk containing Updraft's temporary directory: 13491.7 MB
+0000.003 () Opened log file at time: Wed, 17 Jun 2020 18:27:54 +0000 on http://www.packmas13.de
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.14-1~deb10u1 (fpm-fcgi, Linux dpsg1300 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64) MySQL: 10.3.22-MariaDB-0+deb10u1 WPLANG: de_DE Server: nginx/1.14.2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.5M | 4M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 13491.7 MB
+0000.004 () Ensuring WP_Filesystem is setup for a restore
+0000.004 () WP_Filesystem is setup and ready for a restore
+0000.007 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_restore_table_options":["wp_options","wp_users","wp_usermeta","wp_commentmeta","wp_comments","wp_links","wp_postmeta","wp_posts","wp_term_relationships","wp_term_taxonomy","wp_termmeta","wp_terms","wp_ahm_assets","wp_ahm_download_stats","wp_ahm_emails","wp_b2s_posts","wp_b2s_posts_drafts","wp_b2s_posts_favorites","wp_b2s_posts_network_details","wp_b2s_posts_sched_details","wp_b2s_user","wp_b2s_user_contact","wp_b2s_user_network_settings","wp_wpgmza","wp_wpgmza_circles","wp_wpgmza_maps","wp_wpgmza_nominatim_geocode_cache","wp_wpgmza_polygon","wp_wpgmza_polylines","wp_wpgmza_rectangles","wp_ycd_subscribers"],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.008 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.010 () Entity: db
+0000.010 () restore_backup(backup_file=backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-db.gz, type=db, info=a:0:{}, last_one=)
+0000.011 () Entpacke Sicherung... (backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-db.gz, 0.2 Mb)
+0000.011 () Database successfully unpacked
+0000.011 () Datenbank wiederherstellen (bei großen Websites kann das dauern - wenn der Vorgang in einen Timeout läuft (was passieren kann, wenn dein Webhoster die Ressourcen limitiert) solltest du andere Methoden, wie z.B. phpMyAdmin, nutzen) ...
+0000.011 () Using direct MySQL access; value of use_mysqli is: 1
+0000.012 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.037 () Tried to raise max_allowed_packet from 16 MB to 32 MB, but failed (Access denied; you need (at least one of) the SUPER privilege(s) for this operation, b:0;)
+0000.037 () Max packet size: 16 MB
+0000.037 () Entering maintenance mode
+0000.037 () Anschalten des Wartungsmodus&#160;&hellip;
+0000.038 () Backup of: http://p529540.webspaceconfig.de/wordpress
+0000.064 () Content URL: http://p529540.webspaceconfig.de/wordpress/wp-content
+0000.064 () Uploads URL: http://p529540.webspaceconfig.de/wordpress/wp-content/uploads
+0000.064 () Old table prefix: wp_
+0000.064 () Site information: multisite=0
+0000.065 () New table prefix: wp_
+0000.071 () Processing table (InnoDB): wp_options
+0000.178 () Restoring prior UD configuration (table: wp_options; keys: 97)
+0000.490 () Processing table (InnoDB): wp_users
+0000.526 () Processing table (InnoDB): wp_usermeta
+0000.550 () Processing table (InnoDB): wp_commentmeta
+0000.594 () Processing table (InnoDB): wp_comments
+0000.627 () Processing table (InnoDB): wp_links
+0000.658 () Processing table (InnoDB): wp_postmeta
+0000.711 () Processing table (InnoDB): wp_posts
+0000.826 () Processing table (InnoDB): wp_term_relationships
+0000.850 () Processing table (InnoDB): wp_term_taxonomy
+0000.875 () Processing table (InnoDB): wp_termmeta
+0000.901 () Processing table (InnoDB): wp_terms
+0000.927 () Processing table (InnoDB): wp_ahm_assets
+0000.945 () Processing table (InnoDB): wp_ahm_download_stats
+0000.964 () Processing table (InnoDB): wp_ahm_emails
+0000.975 () Processing table (InnoDB): wp_b2s_posts
+0000.994 () Database queries processed: 50 in 0.98 seconds
+0000.996 () Processing table (InnoDB): wp_b2s_posts_drafts
+0001.007 () Processing table (InnoDB): wp_b2s_posts_favorites
+0001.018 () Processing table (InnoDB): wp_b2s_posts_network_details
+0001.044 () Processing table (InnoDB): wp_b2s_posts_sched_details
+0001.060 () Processing table (InnoDB): wp_b2s_user
+0001.080 () Processing table (InnoDB): wp_b2s_user_contact
+0001.094 () Processing table (InnoDB): wp_b2s_user_network_settings
+0001.111 () Processing table (InnoDB): wp_wpgmza
+0001.130 () Processing table (InnoDB): wp_wpgmza_circles
+0001.172 () Processing table (InnoDB): wp_wpgmza_maps
+0001.200 () Processing table (InnoDB): wp_wpgmza_nominatim_geocode_cache
+0001.222 () Processing table (InnoDB): wp_wpgmza_polygon
+0001.230 () Processing table (InnoDB): wp_wpgmza_polylines
+0001.242 () Processing table (InnoDB): wp_wpgmza_rectangles
+0001.248 () Processing table (InnoDB): wp_ycd_subscribers
+0001.258 () Unlocking database and leaving maintenance mode
+0001.258 () Abschalten des Wartungsmodus&#160;&hellip;
+0001.259 () Finished: lines processed: 88 in 1.25 seconds
+0001.260 () Räume auf ...
+0001.269 () Entity: plugins
+0001.269 () restore_backup(backup_file=backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:42:"/var/www/html/wordpress/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0001.269 () Entpacke Sicherung... (backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-plugins.zip, 24.6 MB)
+0001.270 () Unzipping backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-plugins.zip to /var/www/html/wordpress/wp-content/upgrade/22a22d4f/ using UpdraftPlus_ZipArchive, starting index 0
+0001.413 () Unzip progress: 1002 out of 3769 files (9.2 MB, plugins/contact-form-7/admin/js/scripts.js)
+0001.611 () Unzip progress: 2003 out of 3769 files (29 MB, plugins/wp-google-maps/languages/wp-google-maps-it_IT.mo)
+0001.955 () Unzip progress: 3004 out of 3769 files (65.6 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Iterator/ChunkedIterator.php)
+0002.053 () Unzip progress: 3769 out of 3769 files (69.9 MB, plugins/updraftplus/restorer.php)
+0002.055 () Moving old data: filesystem method / updraft_dir is potentially possible
+0002.055 () Moving old data: can potentially use wp_filesystem method / -old
+0002.055 () Entferne alte Daten ...
+0002.107 () Top-level entities being moved: akismet, hello.php, updraftplus, index.php
+0002.109 () Verschiebe entpackte Sicherung an Stelle ...
+0002.223 () Top-level entities being moved: download-manager, blog2social, contact-form-7, wpdm-extended-shortcodes, sidebar-login, instagrate-to-wordpress, link-manager, page-links-to, wp-super-cache, dynamic-to-top, email-address-encoder, redirector, really-simple-ssl, cookie-law-info, search-everything, updraftplus, index.php, footer-mega-grid-columns, wp-google-maps
+0002.225 () Räume auf ...
+0002.229 () Entity: themes
+0002.229 () restore_backup(backup_file=backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-themes.zip, type=themes, info=a:2:{s:4:"path";s:41:"/var/www/html/wordpress/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0002.229 () Entpacke Sicherung... (backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-themes.zip, 8.5 MB)
+0002.229 () Unzipping backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-themes.zip to /var/www/html/wordpress/wp-content/upgrade/734fdd91/ using UpdraftPlus_ZipArchive, starting index 0
+0002.341 () Unzip progress: 406 out of 406 files (12.9 MB, themes/index.php)
+0002.342 () Moving old data: filesystem method / updraft_dir is potentially possible
+0002.343 () Moving old data: can potentially use wp_filesystem method / -old
+0002.343 () Entferne alte Daten ...
+0002.359 () Top-level entities being moved: twentynineteen, twentytwenty, index.php, twentyseventeen
+0002.359 () Verschiebe entpackte Sicherung an Stelle ...
+0002.373 () Top-level entities being moved: twentynineteen, twentytwenty, lightblogify, arimolite, index.php, twentyseventeen
+0002.373 () Räume auf ...
+0002.378 () Entity: uploads
+0002.378 () restore_backup(backup_file=backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:42:"/var/www/html/wordpress/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0002.378 () Entpacke Sicherung... (backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-uploads.zip, 84.5 MB)
+0002.378 () Unzipping backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-uploads.zip to /var/www/html/wordpress/wp-content/upgrade/09042169/ using UpdraftPlus_ZipArchive, starting index 0
+0002.873 () Unzip progress: 382 out of 382 files (84.7 MB, uploads/2020/04/AGs_02.jpg)
+0002.875 () Moving old data: filesystem method / updraft_dir is potentially possible
+0002.875 () Moving old data: can potentially use wp_filesystem method / -old
+0002.875 () Entferne alte Daten ...
+0002.876 () Verschiebe entpackte Sicherung an Stelle ...
+0002.895 () Räume auf ...
+0002.902 () Entity: others
+0002.902 () restore_backup(backup_file=backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-others.zip, type=others, info=a:2:{s:4:"path";s:34:"/var/www/html/wordpress/wp-content";s:11:"description";s:6:"Andere";}, last_one=1)
+0002.902 () Entpacke Sicherung... (backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-others.zip, 1.1 MB)
+0002.903 () Unzipping backup_2020-05-31-1850_PackMas_03913_6927ea20d4d9-others.zip to /var/www/html/wordpress/wp-content/upgrade/2c2ddcee/ using UpdraftPlus_ZipArchive, starting index 0
+0002.969 () Unzip progress: 69 out of 69 files (3.9 MB, index.php)
+0002.969 () Räume auf ...
+0002.983 () Restore successful!
+0002.984 () Restore successful

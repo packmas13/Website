@@ -1,0 +1,336 @@
+0000.001 (0) Opened log file at time: Fri, 26 Jun 2020 21:54:38 +0000 on https://www.packmas13.de/
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.14-1~deb10u1 (fpm-fcgi, Linux dpsg1300 4.19.0-9-amd64 #1 SMP Debian 4.19.118-2+deb10u1 (2020-06-07) x86_64) MySQL: 10.3.22-MariaDB-0+deb10u1 WPLANG: de_DE Server: nginx/1.14.2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.8M | 4M) multisite: Y (sub-domain) openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 12546.3 MB
+0000.011 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.013 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.017 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1593109800, seconds_ago=98678)
+0000.023 (0) Set semaphore last lock (fd) time to 2020-06-26 21:54:38
+0000.024 (0) Semaphore lock (fd) complete
+0000.033 (0) Backup run: resumption=0, nonce=a30fb8d676e6, file_nonce=a30fb8d676e6 begun at=1593208478 (0s ago), job type=backup
+0000.039 (0) Scheduling a resumption (1) after 300 seconds (1593208778) in case this run gets aborted
+0000.046 (0) Checking if we have a zip executable available
+0000.050 (0) Creation of backups of directories: beginning
+0000.059 (0) Beginning creation of dump of plugins (split every: 25 MB)
+0000.124 (0) Total entities for the zip file: 463 directories, 3226 files (0 skipped as non-modified), 69.1 MB
+0000.137 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.145 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.151 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.157 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.161 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.163 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.7 MB, 3226 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.289 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 600 files added (on-disk size: 3656.4 KB)
+0001.293 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 700 files added (on-disk size: 3656.4 KB)
+0001.298 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 800 files added (on-disk size: 3656.4 KB)
+0001.306 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 900 files added (on-disk size: 3656.4 KB)
+0001.309 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1000 files added (on-disk size: 3656.4 KB)
+0001.315 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.4 MB, 3226 files batched, 501 (1002) added so far); re-opening (prior size: 3656.4 KB)
+0002.236 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1100 files added (on-disk size: 6763.3 KB)
+0002.240 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1200 files added (on-disk size: 6763.3 KB)
+0002.244 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1300 files added (on-disk size: 6763.3 KB)
+0002.248 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1400 files added (on-disk size: 6763.3 KB)
+0002.252 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1500 files added (on-disk size: 6763.3 KB)
+0002.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.1 MB, 3226 files batched, 501 (1503) added so far); re-opening (prior size: 6763.3 KB)
+0003.359 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1600 files added (on-disk size: 10142.1 KB)
+0003.364 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1700 files added (on-disk size: 10142.1 KB)
+0003.371 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1800 files added (on-disk size: 10142.1 KB)
+0003.376 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 1900 files added (on-disk size: 10142.1 KB)
+0003.380 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2000 files added (on-disk size: 10142.1 KB)
+0003.382 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.9 MB, 3226 files batched, 501 (2004) added so far); re-opening (prior size: 10142.1 KB)
+0005.096 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2100 files added (on-disk size: 14399.3 KB)
+0005.101 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2200 files added (on-disk size: 14399.3 KB)
+0005.105 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2300 files added (on-disk size: 14399.3 KB)
+0005.110 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2400 files added (on-disk size: 14399.3 KB)
+0005.115 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2500 files added (on-disk size: 14399.3 KB)
+0005.117 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.5 MB, 3226 files batched, 501 (2505) added so far); re-opening (prior size: 14399.3 KB)
+0005.561 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2600 files added (on-disk size: 14956.2 KB)
+0005.567 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2700 files added (on-disk size: 14956.2 KB)
+0005.571 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2800 files added (on-disk size: 14956.2 KB)
+0005.576 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 2900 files added (on-disk size: 14956.2 KB)
+0005.581 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 3000 files added (on-disk size: 14956.2 KB)
+0005.583 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.1 MB, 3226 files batched, 501 (3006) added so far); re-opening (prior size: 14956.2 KB)
+0007.131 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 3100 files added (on-disk size: 21500 KB)
+0007.135 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip.tmp: 3200 files added (on-disk size: 21500 KB)
+0008.460 (0) Created plugins zip (0) - 24571.1 KB in 8.4 s (2926.8 KB/s) (sha1: 0a606dbfef75f4c0339a36c0f58892ec320fa3e7, sha256: 74d9cb9436d14f7d4d7d842a3dc7963a24832534446194cd2d7faf26e678d16d)
+0008.464 (0) Beginning creation of dump of themes (split every: 25 MB)
+0008.474 (0) Total entities for the zip file: 81 directories, 326 files (0 skipped as non-modified), 12.9 MB
+0008.483 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0008.491 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0008.497 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.254 (0) Created themes zip (0) - 8687.7 KB in 0.8 s (11038.8 KB/s) (sha1: b70c8dcb094ae82ce5f78771d458d3e3273c5a96, sha256: e41bf54ee42e829dd34ef160e465ee5bc45287a994c6893cf5162180f9915da4)
+0009.257 (0) Exclusion option setting (uploads): 
+0009.258 (0) Looking for candidates to backup in: /var/www/html/wordpress/wp-content/uploads
+0009.259 (0) finding files: .htaccess: adding to list (1)
+0009.261 (0) finding files: wpdm-cache: adding to list (2)
+0009.261 (0) finding files: test.txt: adding to list (3)
+0009.262 (0) finding files: 2020: adding to list (4)
+0009.263 (0) finding files: download-manager-files: adding to list (5)
+0009.264 (0) Beginning creation of dump of uploads (split every: 25 MB)
+0009.277 (0) Total entities for the zip file: 9 directories, 424 files (0 skipped as non-modified), 87.6 MB
+0009.283 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.288 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 424 files batched, 197 (197) added so far); re-opening (prior size: 0 KB)
+0009.433 (0) A useful amount of data was added after this amount of zip processing: 0.7 s (normalised: 0.7 s, rate: 34365.4 KB/s)
+0009.435 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=0.74508500099182, normalised_time=0.74493547056404, max_time=9.4339208602905, data points known=1, max_bytes=26214400)
+0009.438 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (0.1 MB, 1 (198) files added so far); last ratio: 0.9997; re-opening (prior size: 25597.4 KB)
+0009.569 (0) Zip size is at/near split limit (25.1 MB / 25 MB) - bumping index (from: 0)
+0009.886 (0) Created uploads zip (0) - 25742 KB in 0.3 s (84230 KB/s) (checksums: sha1: 23139a12a328be0afbbf0b53b31653d1ad46e6bf, sha256: af8e88a2c3591311f3540d57a57c53e8c440ac5c542b7094b1be831eb0ec61c3)
+0009.890 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads2.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.893 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads2.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.895 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.8 MB, 424 files batched, 120 (318) added so far); re-opening (prior size: 0 KB)
+0010.027 (0) A useful amount of data was added after this amount of zip processing: 1.3 s (normalised: 1.3 s, rate: 19712.6 KB/s)
+0010.030 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=1.3396871089935, normalised_time=1.2986591903827, max_time=10.029256820679, data points known=1, max_bytes=26214400)
+0010.032 (0) Zip size is at/near split limit (25.8 MB / 25 MB) - bumping index (from: 1)
+0010.378 (0) Created uploads zip (1) - 26429.4 KB in 0.1 s (181417.2 KB/s) (checksums: sha1: bd9a7b831c05c9350d71f1af5a4209472dbe8882, sha256: 28c454965739b8f5934f01fa9da860da2818668589f52b59a7804f4cb792f5f5)
+0010.383 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (28.9 MB, 424 files batched, 70 (388) added so far); re-opening (prior size: 0 KB)
+0010.538 (0) A useful amount of data was added after this amount of zip processing: 0.8 s (normalised: 0.7 s, rate: 34804.8 KB/s)
+0010.540 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=0.84996199607849, normalised_time=0.73553064533897, max_time=10.53980588913, data points known=1, max_bytes=26214400)
+0010.545 (0) Zip size is at/near split limit (28.9 MB / 25 MB) - bumping index (from: 2)
+0010.927 (0) Created uploads zip (2) - 29594.1 KB in 0.2 s (177648.8 KB/s) (checksums: sha1: 2ca76e8f8d13e2913d7d94f0f7ff36004b0da36b, sha256: 43006028c6ce3736e10a331edf7d64efb48a1464d96b01f8dece5aa0b598002c)
+0010.930 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads4.zip.tmp: 400 files added (on-disk size: 0 KB)
+0011.257 (0) Created uploads zip (3) - 7195.8 KB in 0.3 s (21927.7 KB/s) (sha1: 25d4ae71388ace38fa58dcdd4b18dd35fba28e78, sha256: 63fcef83d514ca35f4b45a25ef10f40913e02f47282c99638971fbf68b7a2598)
+0011.260 (0) Beginning backup of other directories found in the content directory (index: 0)
+0011.261 (0) Exclusion option setting (others): 
+0011.262 (0) Looking for candidates to backup in: /var/www/html/wordpress/wp-content
+0011.263 (0) finding files: languages-old: adding to list (1)
+0011.264 (0) finding files: advanced-cache.php: adding to list (2)
+0011.265 (0) finding files: plugins: skipping: this is the plugins directory
+0011.266 (0) finding files: upgrade: adding to list (3)
+0011.266 (0) finding files: wpdm-assets: adding to list (4)
+0011.267 (0) finding files: languages: adding to list (5)
+0011.268 (0) finding files: updraft: skipping: this is the updraft directory
+0011.270 (0) finding files: themes: skipping: this is the themes directory
+0011.271 (0) finding files: index.php-old: adding to list (6)
+0011.274 (0) finding files: uploads: skipping: this is the uploads directory
+0011.275 (0) finding files: index.php: adding to list (7)
+0011.278 (0) finding files: themes-old: adding to list (8)
+0011.279 (0) finding files: uploads-old: adding to list (9)
+0011.282 (0) finding files: plugins-old: adding to list (10)
+0011.285 (0) finding files: cache: adding to list (11)
+0011.286 (0) finding files: wp-cache-config.php: adding to list (12)
+0011.295 (0) Total entities for the zip file: 19 directories, 106 files (0 skipped as non-modified), 6.7 MB
+0011.307 (0) Zip: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.030 (0) Created others zip (0) - 2015.7 KB in 0.7 s (2715.8 KB/s) (sha1: c8aa82244f383a7ae060507eadaa771978acabd2, sha256: 6d096f7dadea9c422e18d089754c180b74fdebe4c0dc5cf8038591e00b9d19d4)
+0012.038 (0) Saving backup status to database (elements: 11)
+0012.046 (0) Beginning creation of database dump (WordPress DB)
+0012.052 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0012.094 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1113 bytes total)
+0012.097 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0012.106 (0) Table wp_options: Total expected rows (approximate): 362
+0012.122 (0) Table wp_options: Total rows added: 359 in 0.01 seconds
+0012.125 (0) Table wp_options: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_options.table.gz - 59.2 KB)
+0012.131 (0) Table wp_site: Total expected rows (approximate): 0
+0012.135 (0) Table wp_site: Total rows added: 1 in 0.00 seconds
+0012.139 (0) Table wp_site: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_site.table.gz - 0.4 KB)
+0012.147 (0) Table wp_blogs: Total expected rows (approximate): 2
+0012.151 (0) Table wp_blogs: Total rows added: 2 in 0.00 seconds
+0012.154 (0) Table wp_blogs: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_blogs.table.gz - 0.5 KB)
+0012.164 (0) Table wp_users: Total expected rows (approximate): 5
+0012.167 (0) Table wp_users: Total rows added: 6 in 0.00 seconds
+0012.170 (0) Table wp_users: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_users.table.gz - 1 KB)
+0012.176 (0) Table wp_usermeta: Total expected rows (approximate): 117
+0012.179 (0) Table wp_usermeta: Total rows added: 119 in 0.00 seconds
+0012.181 (0) Table wp_usermeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_usermeta.table.gz - 2.6 KB)
+0012.186 (0) Table wp_blogmeta: Total expected rows (approximate): 0
+0012.188 (0) Table wp_blogmeta: Total rows added: 0 in 0.00 seconds
+0012.190 (0) Table wp_blogmeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_blogmeta.table.gz - 0.4 KB)
+0012.195 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0012.198 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0012.199 (0) Table wp_commentmeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_commentmeta.table.gz - 0.3 KB)
+0012.210 (0) Table wp_comments: Total expected rows (approximate): 0
+0012.215 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0012.218 (0) Table wp_comments: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_comments.table.gz - 0.5 KB)
+0012.225 (0) Table wp_links: Total expected rows (approximate): 9
+0012.229 (0) Table wp_links: Total rows added: 9 in 0.00 seconds
+0012.231 (0) Table wp_links: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_links.table.gz - 0.7 KB)
+0012.243 (0) Table wp_postmeta: Total expected rows (approximate): 596
+0012.257 (0) Table wp_postmeta: Total rows added: 596 in 0.01 seconds
+0012.261 (0) Table wp_postmeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_postmeta.table.gz - 15.6 KB)
+0012.268 (0) Table wp_posts: Total expected rows (approximate): 291
+0012.299 (0) Table wp_posts: Total rows added: 321 in 0.03 seconds
+0012.302 (0) Table wp_posts: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_posts.table.gz - 75.7 KB)
+0012.310 (0) Table wp_registration_log: Total expected rows (approximate): 0
+0012.312 (0) Table wp_registration_log: Total rows added: 1 in 0.00 seconds
+0012.313 (0) Table wp_registration_log: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_registration_log.table.gz - 0.5 KB)
+0012.317 (0) Table wp_signups: Total expected rows (approximate): 0
+0012.319 (0) Table wp_signups: Total rows added: 0 in 0.00 seconds
+0012.321 (0) Table wp_signups: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_signups.table.gz - 0.5 KB)
+0012.326 (0) Table wp_sitemeta: Total expected rows (approximate): 46
+0012.329 (0) Table wp_sitemeta: Total rows added: 45 in 0.00 seconds
+0012.331 (0) Table wp_sitemeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_sitemeta.table.gz - 4.5 KB)
+0012.335 (0) Table wp_term_relationships: Total expected rows (approximate): 122
+0012.337 (0) Table wp_term_relationships: Total rows added: 127 in 0.00 seconds
+0012.339 (0) Table wp_term_relationships: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_term_relationships.table.gz - 0.7 KB)
+0012.345 (0) Table wp_term_taxonomy: Total expected rows (approximate): 37
+0012.348 (0) Table wp_term_taxonomy: Total rows added: 37 in 0.00 seconds
+0012.350 (0) Table wp_term_taxonomy: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_term_taxonomy.table.gz - 0.7 KB)
+0012.355 (0) Table wp_termmeta: Total expected rows (approximate): 4
+0012.357 (0) Table wp_termmeta: Total rows added: 4 in 0.00 seconds
+0012.358 (0) Table wp_termmeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_termmeta.table.gz - 0.4 KB)
+0012.363 (0) Table wp_terms: Total expected rows (approximate): 37
+0012.365 (0) Table wp_terms: Total rows added: 37 in 0.00 seconds
+0012.367 (0) Table wp_terms: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_terms.table.gz - 0.8 KB)
+0012.372 (0) Table wp_2_commentmeta: Total expected rows (approximate): 0
+0012.374 (0) Table wp_2_commentmeta: Total rows added: 0 in 0.00 seconds
+0012.375 (0) Table wp_2_commentmeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_commentmeta.table.gz - 0.4 KB)
+0012.379 (0) Table wp_2_comments: Total expected rows (approximate): 0
+0012.381 (0) Table wp_2_comments: Total rows added: 1 in 0.00 seconds
+0012.382 (0) Table wp_2_comments: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_comments.table.gz - 0.8 KB)
+0012.391 (0) Table wp_2_links: Total expected rows (approximate): 0
+0012.394 (0) Table wp_2_links: Total rows added: 0 in 0.00 seconds
+0012.398 (0) Table wp_2_links: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_links.table.gz - 0.4 KB)
+0012.405 (0) Table wp_2_options: Total expected rows (approximate): 101
+0012.408 (0) Table wp_2_options: Total rows added: 102 in 0.00 seconds
+0012.410 (0) Table wp_2_options: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_options.table.gz - 4.5 KB)
+0012.415 (0) Table wp_2_postmeta: Total expected rows (approximate): 0
+0012.417 (0) Table wp_2_postmeta: Total rows added: 1 in 0.00 seconds
+0012.418 (0) Table wp_2_postmeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_postmeta.table.gz - 0.4 KB)
+0012.423 (0) Table wp_2_posts: Total expected rows (approximate): 2
+0012.425 (0) Table wp_2_posts: Total rows added: 2 in 0.00 seconds
+0012.427 (0) Table wp_2_posts: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_posts.table.gz - 1.6 KB)
+0012.434 (0) Table wp_2_term_relationships: Total expected rows (approximate): 0
+0012.436 (0) Table wp_2_term_relationships: Total rows added: 1 in 0.00 seconds
+0012.437 (0) Table wp_2_term_relationships: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_term_relationships.table.gz - 0.3 KB)
+0012.441 (0) Table wp_2_term_taxonomy: Total expected rows (approximate): 0
+0012.442 (0) Table wp_2_term_taxonomy: Total rows added: 1 in 0.00 seconds
+0012.443 (0) Table wp_2_term_taxonomy: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_term_taxonomy.table.gz - 0.4 KB)
+0012.451 (0) Table wp_2_termmeta: Total expected rows (approximate): 0
+0012.456 (0) Table wp_2_termmeta: Total rows added: 0 in 0.00 seconds
+0012.458 (0) Table wp_2_termmeta: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_termmeta.table.gz - 0.4 KB)
+0012.462 (0) Table wp_2_terms: Total expected rows (approximate): 0
+0012.463 (0) Table wp_2_terms: Total rows added: 1 in 0.00 seconds
+0012.465 (0) Table wp_2_terms: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_terms.table.gz - 0.4 KB)
+0012.472 (0) Table wp_ahm_assets: Total expected rows (approximate): 0
+0012.476 (0) Table wp_ahm_assets: Total rows added: 0 in 0.00 seconds
+0012.479 (0) Table wp_ahm_assets: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ahm_assets.table.gz - 0.3 KB)
+0012.486 (0) Table wp_ahm_download_stats: Total expected rows (approximate): 16
+0012.488 (0) Table wp_ahm_download_stats: Total rows added: 16 in 0.00 seconds
+0012.490 (0) Table wp_ahm_download_stats: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ahm_download_stats.table.gz - 0.6 KB)
+0012.497 (0) Table wp_ahm_emails: Total expected rows (approximate): 0
+0012.501 (0) Table wp_ahm_emails: Total rows added: 0 in 0.00 seconds
+0012.504 (0) Table wp_ahm_emails: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ahm_emails.table.gz - 0.3 KB)
+0012.509 (0) Table wp_b2s_posts: Total expected rows (approximate): 2
+0012.513 (0) Table wp_b2s_posts: Total rows added: 2 in 0.00 seconds
+0012.517 (0) Table wp_b2s_posts: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts.table.gz - 0.6 KB)
+0012.530 (0) Table wp_b2s_posts_drafts: Total expected rows (approximate): 0
+0012.533 (0) Table wp_b2s_posts_drafts: Total rows added: 0 in 0.00 seconds
+0012.535 (0) Table wp_b2s_posts_drafts: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_drafts.table.gz - 0.4 KB)
+0012.542 (0) Table wp_b2s_posts_favorites: Total expected rows (approximate): 0
+0012.544 (0) Table wp_b2s_posts_favorites: Total rows added: 0 in 0.00 seconds
+0012.546 (0) Table wp_b2s_posts_favorites: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_favorites.table.gz - 0.3 KB)
+0012.553 (0) Table wp_b2s_posts_network_details: Total expected rows (approximate): 2
+0012.556 (0) Table wp_b2s_posts_network_details: Total rows added: 2 in 0.00 seconds
+0012.558 (0) Table wp_b2s_posts_network_details: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_network_details.table.gz - 0.4 KB)
+0012.567 (0) Table wp_b2s_posts_sched_details: Total expected rows (approximate): 0
+0012.570 (0) Table wp_b2s_posts_sched_details: Total rows added: 0 in 0.00 seconds
+0012.572 (0) Table wp_b2s_posts_sched_details: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_sched_details.table.gz - 0.3 KB)
+0012.582 (0) Table wp_b2s_user: Total expected rows (approximate): 0
+0012.588 (0) Table wp_b2s_user: Total rows added: 1 in 0.00 seconds
+0012.592 (0) Table wp_b2s_user: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_user.table.gz - 0.6 KB)
+0012.600 (0) Table wp_b2s_user_contact: Total expected rows (approximate): 0
+0012.604 (0) Table wp_b2s_user_contact: Total rows added: 0 in 0.00 seconds
+0012.608 (0) Table wp_b2s_user_contact: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_user_contact.table.gz - 0.5 KB)
+0012.617 (0) Table wp_b2s_user_network_settings: Total expected rows (approximate): 0
+0012.620 (0) Table wp_b2s_user_network_settings: Total rows added: 0 in 0.00 seconds
+0012.622 (0) Table wp_b2s_user_network_settings: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_user_network_settings.table.gz - 0.3 KB)
+0012.627 (0) Table wp_wpgmza: Total expected rows (approximate): 0
+0012.630 (0) Table wp_wpgmza: Total rows added: 1 in 0.00 seconds
+0012.632 (0) Table wp_wpgmza: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza.table.gz - 0.6 KB)
+0012.639 (0) Table wp_wpgmza_circles: Total expected rows (approximate): 0
+0012.641 (0) Table wp_wpgmza_circles: Total rows added: 0 in 0.00 seconds
+0012.643 (0) Table wp_wpgmza_circles: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_circles.table.gz - 0.3 KB)
+0012.656 (0) Table wp_wpgmza_maps: Total expected rows (approximate): 0
+0012.662 (0) Table wp_wpgmza_maps: Total rows added: 1 in 0.00 seconds
+0012.666 (0) Table wp_wpgmza_maps: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_maps.table.gz - 1 KB)
+0012.674 (0) Table wp_wpgmza_nominatim_geocode_cache: Total expected rows (approximate): 0
+0012.680 (0) Table wp_wpgmza_nominatim_geocode_cache: Total rows added: 1 in 0.00 seconds
+0012.683 (0) Table wp_wpgmza_nominatim_geocode_cache: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_nominatim_geocode_cache.table.gz - 0.7 KB)
+0012.690 (0) Table wp_wpgmza_polygon: Total expected rows (approximate): 0
+0012.692 (0) Table wp_wpgmza_polygon: Total rows added: 0 in 0.00 seconds
+0012.693 (0) Table wp_wpgmza_polygon: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_polygon.table.gz - 0.4 KB)
+0012.698 (0) Table wp_wpgmza_polylines: Total expected rows (approximate): 0
+0012.699 (0) Table wp_wpgmza_polylines: Total rows added: 0 in 0.00 seconds
+0012.701 (0) Table wp_wpgmza_polylines: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_polylines.table.gz - 0.4 KB)
+0012.708 (0) Table wp_wpgmza_rectangles: Total expected rows (approximate): 0
+0012.710 (0) Table wp_wpgmza_rectangles: Total rows added: 0 in 0.00 seconds
+0012.712 (0) Table wp_wpgmza_rectangles: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_rectangles.table.gz - 0.3 KB)
+0012.719 (0) Table wp_ycd_subscribers: Total expected rows (approximate): 0
+0012.723 (0) Table wp_ycd_subscribers: Total rows added: 0 in 0.00 seconds
+0012.725 (0) Table wp_ycd_subscribers: finishing file (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ycd_subscribers.table.gz - 0.3 KB)
+0012.729 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_options.table.gz (1/47): adding to final database dump
+0012.740 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_site.table.gz (2/47): adding to final database dump
+0012.742 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_blogs.table.gz (3/47): adding to final database dump
+0012.743 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_users.table.gz (4/47): adding to final database dump
+0012.744 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_usermeta.table.gz (5/47): adding to final database dump
+0012.746 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_blogmeta.table.gz (6/47): adding to final database dump
+0012.747 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_commentmeta.table.gz (7/47): adding to final database dump
+0012.748 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_comments.table.gz (8/47): adding to final database dump
+0012.750 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_links.table.gz (9/47): adding to final database dump
+0012.751 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_postmeta.table.gz (10/47): adding to final database dump
+0012.766 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_posts.table.gz (11/47): adding to final database dump
+0012.801 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_registration_log.table.gz (12/47): adding to final database dump
+0012.804 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_signups.table.gz (13/47): adding to final database dump
+0012.805 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_sitemeta.table.gz (14/47): adding to final database dump
+0012.807 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_term_relationships.table.gz (15/47): adding to final database dump
+0012.809 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_term_taxonomy.table.gz (16/47): adding to final database dump
+0012.810 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_termmeta.table.gz (17/47): adding to final database dump
+0012.811 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_terms.table.gz (18/47): adding to final database dump
+0012.813 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_commentmeta.table.gz (19/47): adding to final database dump
+0012.814 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_comments.table.gz (20/47): adding to final database dump
+0012.815 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_links.table.gz (21/47): adding to final database dump
+0012.816 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_options.table.gz (22/47): adding to final database dump
+0012.818 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_postmeta.table.gz (23/47): adding to final database dump
+0012.819 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_posts.table.gz (24/47): adding to final database dump
+0012.819 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_term_relationships.table.gz (25/47): adding to final database dump
+0012.821 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_term_taxonomy.table.gz (26/47): adding to final database dump
+0012.822 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_termmeta.table.gz (27/47): adding to final database dump
+0012.823 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_2_terms.table.gz (28/47): adding to final database dump
+0012.825 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ahm_assets.table.gz (29/47): adding to final database dump
+0012.826 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ahm_download_stats.table.gz (30/47): adding to final database dump
+0012.827 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ahm_emails.table.gz (31/47): adding to final database dump
+0012.829 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts.table.gz (32/47): adding to final database dump
+0012.831 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_drafts.table.gz (33/47): adding to final database dump
+0012.834 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_favorites.table.gz (34/47): adding to final database dump
+0012.836 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_network_details.table.gz (35/47): adding to final database dump
+0012.838 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_posts_sched_details.table.gz (36/47): adding to final database dump
+0012.841 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_user.table.gz (37/47): adding to final database dump
+0012.843 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_user_contact.table.gz (38/47): adding to final database dump
+0012.845 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_b2s_user_network_settings.table.gz (39/47): adding to final database dump
+0012.847 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza.table.gz (40/47): adding to final database dump
+0012.850 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_circles.table.gz (41/47): adding to final database dump
+0012.852 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_maps.table.gz (42/47): adding to final database dump
+0012.855 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_nominatim_geocode_cache.table.gz (43/47): adding to final database dump
+0012.857 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_polygon.table.gz (44/47): adding to final database dump
+0012.859 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_polylines.table.gz (45/47): adding to final database dump
+0012.861 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_wpgmza_rectangles.table.gz (46/47): adding to final database dump
+0012.862 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db-table-wp_ycd_subscribers.table.gz (47/47): adding to final database dump
+0012.868 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db.gz: finished writing out complete database file (152 KB)
+0012.886 (0) Total database tables backed up: 47 (backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db.gz, size: 175235, sha1: 7e7b699e8ef8bace45148534414f4f1a428f6187, sha256: 3a6a45e4c79670b178be24844b3b50ea8a4db8b5ab0f7f83e06eddf8ef3b461d)
+0012.901 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0012.903 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0012.905 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0012.906 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0012.907 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+0012.907 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+0012.908 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-others.zip: others: This file has not yet been successfully uploaded: will queue
+0012.909 (0) backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db.gz: db: This file has not yet been successfully uploaded: will queue
+0012.910 (0) Saving backup history. Total backup size: 121.5 MB
+0012.914 (0) Requesting upload of the files that have not yet been successfully uploaded (8)
+0012.918 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.918 (0) No remote despatch: user chose no remote backup service
+0012.919 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-plugins.zip
+0012.922 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-themes.zip
+0012.924 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads.zip
+0012.929 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads2.zip
+0012.932 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads3.zip
+0012.934 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-uploads4.zip
+0012.936 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-others.zip
+0012.939 (0) Recording as successfully uploaded: backup_2020-06-26-2354_PackMas_03913_a30fb8d676e6-db.gz
+0012.942 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0012.943 (0) Resume backup (a30fb8d676e6, 0): finish run
+0012.945 (0) Decremented the semaphore (fd) by 1
+0012.953 (0) Semaphore (fd) unlocked
+0012.956 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0012.960 (0) The backup apparently succeeded and is now complete
+0012.962 (0) Fetching RSS news feed
+0013.048 (0) Fetched RSS news feed; result is a: SimplePie
+0013.071 (0) Sending email ('Dateien und Datenbank (Volle Sicherung)') report (attachments: 0, size: 0 KB) to: pfadf...
+0013.106 (0) Die Sicherung war anscheinend erfolgreich und ist nun vollständig
