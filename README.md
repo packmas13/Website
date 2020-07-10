@@ -48,7 +48,7 @@ Das System wird auf einen V-Server gehostet. Dafür wurde der Server selbst konf
 
 ## Mitwirkende
 
-* **Stefan Kuppelwieser** - [Github](https://github.com/StefanKuppelwieser) - [Website](https://wwww.kuppelwieser.net)
+* **Stefan Kuppelwieser** - [Github](https://github.com/StefanKuppelwieser) - [Website](https://www.kuppelwieser.net)
 * **Baikuya** - [Github](https://github.com/Baikuya)
 * **Julia W.**
 
